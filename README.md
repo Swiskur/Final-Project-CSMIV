@@ -1,0 +1,1 @@
+I improved route efficiency through data structures and algorithmic optimization. I utilized Dijkstra's, Prim's and Kruskal's algorithims to analyze and optimize network paths. I used a graph based system to find the shortest routes. I used union-find structures to simulate dynamic network changes, which resemble real world changes.
